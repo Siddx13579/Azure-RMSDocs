@@ -61,6 +61,7 @@ You must use PowerShell to activate the Rights Management protection service (Az
 
 4. To activate the service, run [Enable-AipService](/powershell/module/aipservice/enable-aipservice).
 
+Note that all roles are to be assigned with direct assignment and not through group assignment. 
 
 ## Configuring onboarding controls for a phased deployment
 
